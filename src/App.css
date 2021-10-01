@@ -27,6 +27,15 @@
 .App-link {
   color: #61dafb;
 }
+.nav-Btn {
+  float: left;
+  list-style: none;
+}
+.list-item {
+  text-decoration: none;
+  font-weight: 700;
+  color: tomato;
+}
 
 @keyframes App-logo-spin {
   from {
